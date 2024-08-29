@@ -15,6 +15,8 @@ menu:
 social:
 - {icon: 'linkedin', link:  'https://www.linkedin.com/in/kelmoalmeida/'}
 - {icon: 'envelope', link:   'mailto:almeida.kelmo@gmail.com'}
+- {icon: 'linkedin', link:  'https://www.linkedin.com/in/kelmoalmeida/'}
+- {icon: 'envelope', link:   'mailto:almeida.kelmo@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
